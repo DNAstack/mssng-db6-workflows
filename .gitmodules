@@ -1,0 +1,18 @@
+[submodule "mssng-db6-ccdg-alignment-and-calling"]
+	path = mssng-db6-ccdg-alignment-and-calling
+	url = git@github.com:DNAstack/mssng-db6-ccdg-alignment-and-calling.git
+[submodule "mssng-db6-vqsr"]
+	path = mssng-db6-vqsr
+	url = git@github.com:DNAstack/mssng-db6-vqsr.git
+[submodule "mssng-db6-variant-metrics"]
+	path = mssng-db6-variant-metrics
+	url = git@github.com:DNAstack/mssng-db6-variant-metrics.git
+[submodule "mssng-db6-exract-valid-chromosome-vcfs"]
+	path = mssng-db6-exract-valid-chromosome-vcfs
+	url = git@github.com:DNAstack/mssng-db6-exract-valid-chromosome-vcfs.git
+[submodule "mssng-db6-joint-genotype-by-region"]
+	path = mssng-db6-joint-genotype-by-region
+	url = git@github.com:DNAstack/mssng-db6-joint-genotype-by-region.git
+[submodule "mssng-db6-joint-genotype-merge-by-chr"]
+	path = mssng-db6-joint-genotype-merge-by-chr
+	url = git@github.com:DNAstack/mssng-db6-joint-genotype-merge-by-chr.git
